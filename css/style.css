@@ -60,3 +60,26 @@ body{
 .portfolio-color{
     color: #E6706A;
 }
+
+
+
+.contact-container{
+    background-color: #474D5D;
+}
+.margin{
+    margin-right: 3px;
+}
+
+
+.inner-form{
+    background-color: #585f73;
+}
+
+
+.btncolour{
+    background-color:#E6706A ;
+}
+.btncolour:hover{
+    color: black!important;
+}
+
