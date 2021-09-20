@@ -12,7 +12,10 @@ body{
 
 
 .navbar-container{
+    top: 0;
     background-color: #262B37;
+    position: sticky;
+    z-index: 5;
 }
 
 
@@ -53,3 +56,49 @@ body{
 .text-decoration{
     text-decoration: none;
 }
+
+.portfolio-color{
+    color: #E6706A;
+}
+
+
+
+.contact-container{
+    background-color: #474D5D;
+}
+.margin{
+    margin-right: 3px;
+}
+
+
+.inner-form{
+    background-color: #585f73;
+}
+
+
+.btncolour{
+    background-color:#E6706A ;
+}
+.btncolour:hover{
+    color: black!important;
+}
+
+
+.footer-circle{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: white;
+    color: #02A4F9;
+}
+.footer-circle:hover{
+    background-color: #585f73;
+}
+
+
+.footer-container{
+    background-color: #02A4F9;
+}
+
+
